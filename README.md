@@ -5,4 +5,5 @@ I have been disappointed by the lack of viable Adobe javaScript samples on the i
 
 - [Adobe's Open Source documentation as web page](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html).
 - [Adobe's documentation as PDF](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/pdfs/acrobatsdk_jsapiref.pdf) is massive and, and in my opinion, could be more clear, hence this repository.
+- [Scripting Help Guilde](https://www.pdfill.com/download/Acro6JSGuide.pdf) Good document especially for where scripts place (see page 70).
 - [Good front/back automation tool](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools)
